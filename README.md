@@ -210,3 +210,16 @@ Here are some open-source references that could be used for the Mail Delivering 
 4. OpenCV (https://opencv.org/): OpenCV is an open-source computer vision library that provides a wide range of algorithms and functions for image and video processing. It can be used to implement various computer vision techniques, such as object detection and tracking, for the Mail Delivering PiRacer.
 
 These open-source tools and platforms can be used as a starting point for the Mail Delivering PiRacer project, and participants can build on them to create their own custom solutions. The specific tools and platforms used will depend on the goals and objectives of the educational program, as well as the skills and interests of the participants.
+
+
+
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
