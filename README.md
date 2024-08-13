@@ -23,9 +23,6 @@
 
 Autonomous driving technology is one of the most exciting and rapidly-evolving fields in the world of robotics and artificial intelligence. With the potential to revolutionize the way we move goods and people, it is an area that is ripe for exploration and experimentation. In this peer-to-peer educational project, participants will have the opportunity to build and compete with their own autonomous vehicles, known as PiRacers, as they learn about the technology and principles behind autonomous driving.
 
-Throughout the project, participants will gain hands-on experience with cutting-edge technology in the field of autonomous driving, including computer vision, machine learning, control systems, and robotics. They will also develop valuable skills in software engineering, project management, and teamwork as they work together to build their PiRacer and compete against each other.
-
-This peer-to-peer educational project is an exciting opportunity for anyone interested in autonomous driving, robotics, and technology to learn, experiment, and have fun. Whether you are a student, hobbyist, or professional, this project is a great way to expand your knowledge and skills, and be a part of the future of autonomous driving.  
 </br>
 
 
@@ -35,9 +32,6 @@ Autonomous driving technology is rapidly advancing, with numerous companies and 
 
 To address this, this peer-to-peer educational project has been created to provide an accessible and engaging way for people to learn about autonomous driving. Participants will use Raspberry Pi computers, motors, wheels, and other off-the-shelf components to build and control their PiRacers, using open-source software libraries and tools such as TensorFlow, ROS, and OpenCV.
 
-Teams of participants will work together to build the best PiRacer for delivering mail. Throughout the project, participants will learn about and apply key concepts in autonomous driving, including computer vision, machine learning, control systems, and robotics, as well as develop skills in software engineering, project management, and teamwork.
-
-The goal of this project is to provide an accessible and engaging way for people to learn about autonomous driving and gain hands-on experience with the technology. Whether you are a student, hobbyist, or professional, this project offers a unique opportunity to explore and experiment with autonomous driving, and be a part of the future of this exciting and rapidly-evolving field.  
 </br>
 
 
@@ -71,16 +65,6 @@ The goals and objectives of the Start and Goal project are as follows:
     * A software platform for simulating the delivery environment, including obstacles and other objects
     * A visualizer for displaying the simulation and PiRacer performance
  
-</br>
-
-
-# System Architecture
-
-The system architecture for the Start and Goal project can be divided into two main components:
-
-1. Perception: Each PiRacer consists of a Raspberry Pi computer, motors and wheels for mobility, sensors for perception, and other components as needed. The Raspberry Pi runs software for perception, decision-making, and control, and communicates with the simulation environment through a wireless connection.
-2. Simulation Environment: The simulation environment is a software platform for simulating the delivery environment and obstacles, and for visualizing the performance of the PiRacers. The simulation environment receives sensor data from the PiRacers and sends control commands to them. It also provides feedback to the participants through a visualizer, allowing them to observe and evaluate their PiRacer's performance.
-
 </br>
 
 
@@ -139,7 +123,7 @@ Upon completion of the project, participants should submit a GitHub repository t
 
 1. Hardware Assembly: Participants should provide a detailed description of the hardware components used in their PiRacer, and the steps taken to assemble the hardware. This may include photos or videos of the assembly process.
 2. Software Code: Participants should provide the source code for their PiRacer software, including the perception module, decision-making module, and control module. The code should be well-documented, with clear explanations of the algorithms and techniques used.
-3. Simulation Results: Participants should provide simulation results that demonstrate the performance of their PiRacer in the simulation environment. This may include screenshots or videos of the PiRacer in action, as well as metrics and statistics that measure the performance of the PiRacer.
+3. Results: Participants should provide simulation results that demonstrate the performance of their PiRacer in the simulation environment. This may include screenshots or videos of the PiRacer in action, as well as metrics and statistics that measure the performance of the PiRacer.
 4. Project Report: Participants should provide a project report that describes their experience with the project, including any challenges faced and how they were overcome. The report should also include a discussion of the algorithms and techniques used, as well as the results and conclusions of the project.
 
 By providing these components, the participants will demonstrate their understanding of the concepts and techniques involved in the project, and will provide evidence of their ability to implement an autonomous system. The GitHub repository will serve as a portfolio of the participants' work, and will provide a record of their achievements and contributions to the field of autonomous systems.  
