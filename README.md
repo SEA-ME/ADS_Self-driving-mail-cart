@@ -1,4 +1,4 @@
-# ADS Project - Start and Goal. Self-driving mail delivering PiRacer. Level 3 Autonomy
+# ADS Project - Start and Goal. Self-driving mail delivering PiRacer - Level 3 Autonomy
 ## You have a mail!  
 </br>
 
